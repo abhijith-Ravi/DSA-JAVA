@@ -6,7 +6,7 @@ public static void rainwatertrapping(int arr[]){
         int maxright[]=new int[arr.length];
 
         int n=arr.length-1;
-        maxright[n]=arr[n];
+        maxright[n]=arr[n]; 
 
 
 
